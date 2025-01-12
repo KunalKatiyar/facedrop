@@ -1,4 +1,4 @@
-# Dropface
+# FaceDrop
 
 This project implements a simplified version of a Dropbox-like platform for a typeface project where users can upload, view, and download files. The system is divided into two main parts: the **frontend** and the **backend**.
 
@@ -52,7 +52,7 @@ Ensure you have the following installed on your system:
 
 ## Demo purpose
 
-### Please refer to `dropface.mp4` for a sample demo.
+### Please refer to `facedrop.mp4` for a sample demo.
 ### You can also try running individual services.
 
 ## Individual running
